@@ -54,6 +54,7 @@ const Movie = () => {
       >
         Toggle Subtitles
       </button>
+      
     </div>
   );
 };
